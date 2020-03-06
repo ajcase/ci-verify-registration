@@ -1,0 +1,5 @@
+---
+applications:
+ - name: deviceregistration
+   host: deviceregistration
+   memory: 128M

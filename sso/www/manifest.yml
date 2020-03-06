@@ -1,0 +1,5 @@
+---
+applications:
+ - name: maas360-api
+   host: MaaS360-SSO-EUP
+   memory: 128M
