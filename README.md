@@ -27,6 +27,7 @@
 ### Example
 
 ![alt text](https://github.ibm.com/ajcase/CIV-DeviceRegistration/blob/master/DeviceRegistration-example.png "Device Registration Example for CIV")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fajcase%2Fci-verify-registration.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fajcase%2Fci-verify-registration?ref=badge_shield)
 
 ### Technologies Used
 + PHP 7+
@@ -152,3 +153,7 @@ $metadata['https://tenant.ice.ibmcloud.com/saml/sps/saml20ip/saml20'] = array( /
 1. Better UI for device view
 2. More responsive Mobile UI
 3. Pagination for all device transactions
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fajcase%2Fci-verify-registration.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fajcase%2Fci-verify-registration?ref=badge_large)
